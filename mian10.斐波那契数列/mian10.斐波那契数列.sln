@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mian10.斐波那契数列", "mian10.斐波那契数列\mian10.斐波那契数列.vcxproj", "{D0EC6574-D402-435B-B004-B147E0A0477D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Debug|x64.ActiveCfg = Debug|x64
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Debug|x64.Build.0 = Debug|x64
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Debug|x86.Build.0 = Debug|Win32
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Release|x64.ActiveCfg = Release|x64
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Release|x64.Build.0 = Release|x64
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Release|x86.ActiveCfg = Release|Win32
+		{D0EC6574-D402-435B-B004-B147E0A0477D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A0860D-165F-4544-AA6A-CC37DAE0E0F1}
+	EndGlobalSection
+EndGlobal
