@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mian17.打印从1到最大的n位数", "mian17.打印从1到最大的n位数\mian17.打印从1到最大的n位数.vcxproj", "{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Debug|x64.ActiveCfg = Debug|x64
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Debug|x64.Build.0 = Debug|x64
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Debug|x86.ActiveCfg = Debug|Win32
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Debug|x86.Build.0 = Debug|Win32
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Release|x64.ActiveCfg = Release|x64
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Release|x64.Build.0 = Release|x64
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Release|x86.ActiveCfg = Release|Win32
+		{F28DEF6E-FCCB-4BD7-A34D-F88CF897EB19}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0807166-293D-4B63-8407-6B61337A5D20}
+	EndGlobalSection
+EndGlobal
